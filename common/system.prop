@@ -1,5 +1,4 @@
-# THIS FILE WILL CHANGE YOUR FINGERPRINT TO GOOGLE PIXEL 2 ONE
-ro.build.fingerprint=google/walleye/walleye:9/PQ3A.190801.002/5670241:user/release-keys
-ro.bootimage.build.fingerprint=google/walleye/walleye:9/PQ3A.190801.002/5670241:user/release-keys
-ro.vendor.build.fingerprint=google/walleye/walleye:9/PQ3A.190801.002/5670241:user/release-keys
-ro.build.version.security_patch=2019-08-01
+ro.build.fingerprint=HUAWEI/EML-L29/HWEML:9/HUAWEIEML-L29/197C432R1:user/release-keys
+ro.bootimage.build.fingerprint=HUAWEI/EML-L29/HWEML:9/HUAWEIEML-L29/197C432R1:user/release-keys
+ro.vendor.build.fingerprint=HUAWEI/EML-L29/HWEML:9/HUAWEIEML-L29/197C432R1:user/release-keys
+ro.build.version.security_patch=2019-01-01
